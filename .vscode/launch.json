@@ -1,6 +1,7 @@
 {
   "version": "0.2.0",
   "configurations": [
+  
     {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
@@ -8,8 +9,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Maycon/OneDrive/Desktop/CODING/C++/C--",
-      "program": "c:/Users/Maycon/OneDrive/Desktop/CODING/C++/C--/build/Debug/outDebug",
+      "cwd": "c:/Users/Maycon/OneDrive/Desktop/CODING/C++/cpp",
+      "program": "c:/Users/Maycon/OneDrive/Desktop/CODING/C++/cpp/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
