@@ -1,1 +1,4 @@
-Leonidas
+int main()
+{
+    cout << Calculator() << endl;
+}
