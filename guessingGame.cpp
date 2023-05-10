@@ -32,11 +32,12 @@ int main()
             game = false;
         } else if(guess < randomNumber) {
             attempts++;
-            cout << "Wrong, your guess is lower than the number i'm thinking   ";
+            cout << "Wrong, your guess is lower than the number i'm thinking" << endl;
+            cout << "Guess   ";
             cin >> guess;
         } else if (guess > randomNumber) {
             attempts ++;
-            cout << "Almost there, but the number on my mind is lower than that   ";
+            cout << "Almost there, but the number on my mind is lower than that, try again    ";
             cin >> guess;
     }
     }
